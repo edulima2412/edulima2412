@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Bio</h1>
 
-<!--
-**edulima2412/edulima2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+>.NET Programmer/Technical Lead BPA.
 
-Here are some ideas to get you started:
+>Currently studying new technologies like:
+>React, NodeJS, React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Experience with process automation tools IBM BPM and also with C#, Requisitions (RESTfull, Soap), Web Development (HTML, CSS, Javascript), Databases (SQL, MySQL, Postgres) and a >little bit of Java.
+
+>Always in search of learning and new technologies.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edulima2412)](https://www.linkedin.com/in/edulima2412)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:edulima2412@gmail.com)](mailto:edulima2412@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.com/channels/EduardoLima#7204)](https://discord.com/channels/@EduardoLima#7204)
+
+</div>
