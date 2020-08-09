@@ -7,7 +7,8 @@
 >Currently studying new technologies like:
 >React, NodeJS, React Native.
 
->Experience with process automation tools IBM BPM and also with C#, Requisitions (RESTfull, Soap), Web Development (HTML, CSS, Javascript), Databases (SQL, MySQL, Postgres) and a >little bit of Java.
+>Experience with process automation tools IBM BPM and also with C#, Requisitions (RESTfull, Soap), 
+>Web Development (HTML, CSS, Javascript), Databases (SQL, MySQL, Postgres) and a >little bit of Java.
 
 >Always in search of learning and new technologies.
 
