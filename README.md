@@ -2,16 +2,30 @@
 
 <div align="center">
   
->.NET Programmer/Technical Lead BPA.
+>.NET Programmer | Technical Lead BPA.
 
 >Currently studying new technologies like:
 >React, NodeJS, React Native.
 
->Experience with process automation tools IBM BPM and also with C#,
->Requisitions (RESTfull, Soap), Web Development (HTML, CSS, Javascript),
->Databases (SQL, MySQL, Postgres) and a little bit of Java.
-
 >Always in search of learning and new technologies.
+
+## Skills
+
+### Technologies
+* HTML5
+* CSS3
+* Javascript
+* .NET
+* REST
+* Docker
+
+### Tools
+* IBM BPM
+
+### Databases
+* SQL Server
+* MySQL
+* PostgreSQL
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edulima2412)](https://www.linkedin.com/in/edulima2412)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:edulima2412@gmail.com)](mailto:edulima2412@gmail.com)
