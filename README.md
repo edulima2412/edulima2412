@@ -9,9 +9,8 @@
 
 >Always in search of learning and new technologies.
 
-</div>
-
 ## Skills
+</div>
 
 ### Technologies
 * HTML5
