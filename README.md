@@ -2,7 +2,7 @@
 
 <div align="center">
   
->.NET Programmer | Technical Lead BPA.
+>.NET Developer | Technical Lead BPA.
 
 >Currently studying new technologies like:
 >React, NodeJS, React Native.
