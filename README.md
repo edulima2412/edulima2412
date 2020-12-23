@@ -2,12 +2,14 @@
 
 <div align="center">
   
->.NET Developer | Technical Lead BPA.
+.NET Developer | Technical Lead BPA.
 
->Currently studying new technologies like:
->React, NodeJS, React Native.
+Currently studying new technologies like:
+React, NodeJS, React Native.
 
->Always in search of learning and new technologies.
+Always in search of learning and new technologies.
+
+![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true)
 
 ## Skills
 </div>
