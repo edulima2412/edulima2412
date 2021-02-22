@@ -10,7 +10,7 @@
 🏡 Brazilian, I live in Fortaleza-CE
 
 ### Skills
-React, NodeJS, React Native.
+C#, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript.
 
 Cheers!
 
