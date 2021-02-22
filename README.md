@@ -1,13 +1,11 @@
 <p align="center">
- <img width="15%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualiza%C3%A7%C3%B5es_do_Perfil" />
- <br />
-  
- <img width="50%" src="https://user-images.githubusercontent.com/28990547/108727251-20c60000-7507-11eb-8cd6-0f00a17c26b3.gif" />
+ <img width="60%" src="https://user-images.githubusercontent.com/28990547/108727251-20c60000-7507-11eb-8cd6-0f00a17c26b3.gif" />
 </p>
 
 <samp>
-### Hello, I'm Eduardo Lima! 👋
+<img width="20%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualiza%C3%A7%C3%B5es_do_Perfil" />
 
+### Hello, I'm Eduardo Lima! 👋
 💻 Programmer .NET. <br>
 🏡 Brazilian, I live in Fortaleza-CE
 
@@ -15,7 +13,6 @@
 React, NodeJS, React Native.
 
 Cheers!
-</samp>
 
 <div align="center">
   
@@ -27,3 +24,4 @@ Cheers!
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.com/channels/EduardoLima#7204)](https://discord.com/channels/@EduardoLima#7204)
 
 </div>
+</samp>
