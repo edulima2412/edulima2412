@@ -1,7 +1,7 @@
 <p align="center">
+  ![](https://user-images.githubusercontent.com/28990547/108727251-20c60000-7507-11eb-8cd6-0f00a17c26b3.gif)
   ![](https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações)
 </p>
-
 
 <samp>
 
