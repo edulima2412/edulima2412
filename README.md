@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações)
+<p align="center">
+  <img width="100%" src="https://i.postimg.cc/WbJzvMKB/software-developer-gif-1540802.gif"/>
+
+  ![](https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações)
+</p>
 
 Bio
 
