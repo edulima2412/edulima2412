@@ -1,7 +1,7 @@
-<h1 align="center">Bio</h1>
+![](https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações)
 
-<div align="center">
-  
+Bio
+
 .NET Developer | Technical Lead BPA.
 
 Currently studying new technologies like:
@@ -9,10 +9,7 @@ React, NodeJS, React Native.
 
 Always in search of learning and new technologies.
 
-![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true)
-
 ## Skills
-</div>
 
 ### Technologies
 * HTML5
@@ -31,6 +28,8 @@ Always in search of learning and new technologies.
 * PostgreSQL
 
 <div align="center">
+  
+![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edulima2412)](https://www.linkedin.com/in/edulima2412)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:edulima2412@gmail.com)](mailto:edulima2412@gmail.com)
