@@ -6,11 +6,11 @@
 <img width="20%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualiza%C3%A7%C3%B5es_do_Perfil" />
 
 ### Hello, I'm Eduardo Lima! 👋
-💻 Programmer .NET. <br>
+💻 Programmer .NET <br>
 🏡 Brazilian, I live in Fortaleza-CE
 
 ### Skills
-C#, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript.
+C#, .NET, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript, Git, RESTful.
 
 Cheers!
 
