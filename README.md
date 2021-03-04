@@ -10,7 +10,21 @@
 🏡 Brasileiro, Nascido e criado em Fortaleza-CE
 
 ### Habilidades
-C#, .NET, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript, Git, RESTful.
+<img src="https://img.shields.io/badge/CSharp-1?&logo=c-sharp&style=social&logoColor=67217a" />&nbsp;
+<img src="https://img.shields.io/badge/.NET-1?&logo=.net&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/NodeJS-1?&logo=node.js&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/JSON-1?style=social&logo=json" />&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=F05032" />&nbsp;
+<img src="https://img.shields.io/badge/Github-1?&logo=github&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/React-1?&logo=react&style=social&logoColor=5adafd" />&nbsp;
+<img src="https://img.shields.io/badge/HTML-1?&logo=html5&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/CSS-1?&logo=css3&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/Javascript-1?&logo=javascript&style=social&logoColor=f0d73b" />&nbsp;
+<img src="https://img.shields.io/badge/SQL%20Server-1?&logo=microsoft-sql-server&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-1?&logo=mysql&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-1?&logo=postgresql&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio-1?&logo=visual-studio&style=social" />&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-1?&logo=visual-studio-code&style=social" />&nbsp;
 
 <div align="center">
 <hr />
