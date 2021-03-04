@@ -15,8 +15,12 @@ C#, .NET, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript, Git, RESTful.
 Cheers!
 
 <div align="center">
-  
-![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true)
+
+### Status
+![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true&hide_title=true)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulima2412&langs_count=10&layout=compact&theme=chartreuse-dark&hide_title=true)
+
 
 ### Find me around the web 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edulima2412)](https://www.linkedin.com/in/edulima2412)
