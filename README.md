@@ -3,7 +3,7 @@
 </p>
 
 <samp>
-<img width="20%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualiza%C3%A7%C3%B5es_do_Perfil" />
+<img width="15%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações" />
 
 ### Oi, Eu sou Eduardo Lima! 👋
 💻 Programador Full Stack <br>
