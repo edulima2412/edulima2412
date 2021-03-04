@@ -12,7 +12,7 @@
 ### Habilidades
 C#, .NET, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript, Git, RESTful.
 
-Cheers!
+Prazer!
 
 <div align="center">
 
