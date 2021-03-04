@@ -13,6 +13,7 @@
 C#, .NET, SQL Server, MySQL, React, NodeJS, HTML, CSS, Javascript, Git, RESTful.
 
 <div align="center">
+<hr />
 
 ### Status
 ![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true&hide_title=true)
