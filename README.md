@@ -19,6 +19,8 @@ Cheers!
 ### Status
 ![edulima2412](https://github-readme-stats.vercel.app/api?username=edulima2412&theme=chartreuse-dark&show_icons=true&hide_title=true)
 <br />
+![edulima2412's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edulima2412&hide_title=true&theme=chartreuse-dark&layout=Compact)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edulima2412&langs_count=10&layout=compact&theme=chartreuse-dark&hide_title=true)
 
 
