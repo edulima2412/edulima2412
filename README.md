@@ -6,8 +6,10 @@
 <img width="15%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações" />
 
 ### Oi, Eu sou Eduardo Lima! 👋
-💻 Programador Full Stack <br>
-🏡 Brasileiro, Nascido e criado em Fortaleza-CE
+💻 Desenvolvedor Full Stack, com foco em C# .NET <br>
+🏡 Brasileiro, Nascido e criado em Fortaleza-CE. <br>
+🎮 Apaixonado por Games (MMO, MMORPG, MOBA, Survive). <br>
+📚 Constantemente estudando, para acompanhar o mercado tecnológico. <br>
 
 ### Habilidades
 <img src="https://img.shields.io/badge/CSharp-1?&logo=c-sharp&style=social&logoColor=67217a" />&nbsp;
