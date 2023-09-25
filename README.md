@@ -2,7 +2,7 @@
 <img width="10%" src="https://komarev.com/ghpvc/?username=edulima2412&color=yellowgreen&label=Visualizações" />
 
 ### Oi, Eu sou Eduardo Lima! 👋
-💻 Engenheiro de Software | .NET | Angular | NodeJs <br>
+💻 Engenheiro de Software | .NET | NodeJs <br>
 🏡 Brasileiro, Nascido e criado em Fortaleza-CE. <br>
 🎮 Apaixonado por Games (MMO, MMORPG, MOBA, Survive). <br>
 📚 Constantemente estudando, para acompanhar o mercado tecnológico. <br>
